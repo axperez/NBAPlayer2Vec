@@ -1,0 +1,11 @@
+nba-movement-data/data/*.json
+nba-movement-data/data/csv/**
+nba-movement-data/data/events/**
+nba-movement-data/data/converted/**
+nba-movement-data/.idea/**
+*.pyc
+nba-movement-data/build/**
+nba-movement-data/dist/**
+nba-movement-data/movement.egg-info/**
+.vscode
+.ipynb_checkpoints
